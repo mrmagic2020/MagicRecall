@@ -11,3 +11,4 @@ Mr. Magic
  This is my first plugin, and it might contain BUGs! Feel free to point them out.
 
 这是我的第一个插件，可能会有BUG！有问题欢迎提出～
+![image](https://user-images.githubusercontent.com/104749673/170499634-2172e165-1f71-4a5e-8f92-68848aa02a34.png)
