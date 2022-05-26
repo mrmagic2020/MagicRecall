@@ -1,0 +1,11 @@
+{
+  "name": "magicrecall",
+  "version": "1.0.0",
+  "description": "recall keywords sent in main group",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mr. Magic",
+  "license": "ISC"
+}
