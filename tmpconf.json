@@ -1,5 +1,6 @@
 {
     "detect_curse":true,
     "detect_sensitive":true,
-    "detect_curse_extensions":false
+    "detect_curse_extensions":false,
+    "detect_customs":true
 }
